@@ -1,0 +1,6 @@
+{
+  "name": "Traccar",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Traccar.js"
+}

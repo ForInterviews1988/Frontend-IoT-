@@ -1,0 +1,6 @@
+[submodule "src/Core-UI-React"]
+	path = src/Core-UI-React
+	url = ./
+[submodule "src/src"]
+	path = src/src
+	url = /Users/ites/Desktop/hivetracker_reactjs/src/Core-UI-React
